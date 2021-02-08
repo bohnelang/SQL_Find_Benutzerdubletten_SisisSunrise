@@ -12,7 +12,7 @@ Benutzer 1: 15.08.2000 Tobias Klaus Hermann Müller
 Benutzer 2: 15.08.2000 Tobias Müller
 ```
 
-Dieses ist mit großer Sicherheit eine Dublette, die aber so nichtaufgrund des stark unterschiedlichen Vornamens erkannt wird. 
+Dieses ist mit großer Sicherheit eine Dublette, die aber so nicht aufgrund des stark unterschiedlichen Vornamens erkannt wird. 
 
 
 Mit dieser Datenbankabfrage kann man ein Großteil dieser Dubletten finden:
